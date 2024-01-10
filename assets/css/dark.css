@@ -1,0 +1,32 @@
+:root{
+    --bs-light: white;
+    color: var(--second-color);
+    /* --bs-dark: rgb(0, 0, 0); */
+  }
+  
+  .theme-container {
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    position: fixed;
+    /* bottom: 20px; */
+    right: 60px;
+    top: 15px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    transition: 0.5s;
+  }
+  
+  .theme-container:hover {
+    opacity: 0.8;
+
+  }
+  
+  .shadow-dark {
+    background: linear-gradient(145deg, #000000, #1e2125);
+    box-shadow: 1px 1px 20px #43b3e7,
+      -1px -1px 2px #282d32, inset 5px 5px 4px #1e2226,
+      inset -5px -5px 4px #24282c;
+  }
+  
