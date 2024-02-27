@@ -16,6 +16,7 @@
     justify-content: center;
     align-items: center;
     transition: 0.5s;
+    background-color: #43b3e7;
   }
   
   .theme-container:hover {
@@ -23,10 +24,10 @@
 
   }
   
-  .shadow-dark {
+  /* .shadow-dark {
     background: linear-gradient(145deg, #000000, #1e2125);
     box-shadow: 1px 1px 20px #43b3e7,
       -1px -1px 2px #282d32, inset 5px 5px 4px #1e2226,
       inset -5px -5px 4px #24282c;
-  }
+  } */
   
