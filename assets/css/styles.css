@@ -367,6 +367,7 @@ img {
   text-align: center;
   font-weight: var(--font-semi);
   padding: 2rem 0;
+  margin-bottom: -75px;
 }
 .footer__title {
   font-size: 2rem;
@@ -535,7 +536,9 @@ input[type=text], select, textarea {
   /* padding-top: 0px; */
   margin-bottom: 1px;
   resize: vertical;
-}
+  background: white;
+  color: black;
+  }
 
 #backtop {
   position: fixed;
@@ -568,3 +571,4 @@ input[type=text], select, textarea {
   color:#43b3e7;
   font-weight: normal;
 } */
+
