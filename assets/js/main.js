@@ -5,7 +5,7 @@ function McFloatPanel(){var i=[],s=[],h="className",t="getElementsByClassName",d
 // List of sentences
 var _CONTENT = [ "Engineer", 
                 "Programmer", 
-                "Technopreneur" ];
+                "Prototyper" ];
 
 // Current sentence being processed
 var _PART = 0;
